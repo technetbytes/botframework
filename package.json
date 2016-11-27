@@ -8,17 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fuselabs/echobot.git"
+    "url": "git+https://github.com/technetbytes/botframework.git"
   },
   "keywords": [
     "botframework"
   ],
   "author": "Fuse Labs",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/fuselabs/echobot/issues"
-  },
-  "homepage": "https://github.com/fuselabs/echobot#readme",
   "dependencies": {
     "botbuilder": "^0.6.5",
     "restify": "^4.0.4"
